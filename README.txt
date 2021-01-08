@@ -4,6 +4,10 @@ License Note:
 	Learn to Explain source as a starting point. 
 
 
+Tensorflow_version = 1.13.1
+Keras version = 2.2.4
+
+
 Instruction runs:
 		All these code should be written in cmd on the folder file for each 
 		specific dataset. 
